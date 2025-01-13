@@ -1,4 +1,4 @@
-# Development of a Risc-V Microprocessor with pipeline of 5 stages
+# Development of a Risc-V Microprocessor with a 5-stage pipeline
 
 The repository consists of four works from the discipline "Computer Architecture" at UFRJ, based on the book Computer Organization and Design [1].
 
